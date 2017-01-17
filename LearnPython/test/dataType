@@ -118,7 +118,7 @@ print(str[7])
 
 print(str[13])
 
-print(str[-1])
+print(str[-1]) # 마이너스 인덱스는 -1부터 시작
 
 str1 = str[-6] + str[-5] + str[-4] + str[-3] + str[-2] + str[-1]
 
@@ -157,7 +157,7 @@ aa[:1]
 print(aa[:1])
 aa[2:]
 print(aa[2:])
-
+# 교체하고 싶은 위치의 문자를 기준으로 양쪽 슬라이스 -> 교체하고 싶은 문자를 새로 선언 후 병합
 aa = aa[:1] + 'F' + aa[2:]
 
 print(aa)
