@@ -95,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function2" pinned="false" current-in-tab="true">
+      <file leaf-file-name="function2" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/function2">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="477">
               <caret line="67" column="60" lean-forward="false" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function3" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/function3">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -128,6 +138,7 @@
         <option value="$PROJECT_DIR$/test/for" />
         <option value="$PROJECT_DIR$/test/function" />
         <option value="$PROJECT_DIR$/test/function2" />
+        <option value="$PROJECT_DIR$/test/function3" />
       </list>
     </option>
   </component>
@@ -177,24 +188,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.function2">
-    <configuration default="false" name="if" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/if" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.function3">
     <configuration default="false" name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -259,6 +253,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/function2" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="function3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/function3" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -398,19 +409,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.if" />
-      <item index="1" class="java.lang.String" itemvalue="Python.while" />
-      <item index="2" class="java.lang.String" itemvalue="Python.for" />
-      <item index="3" class="java.lang.String" itemvalue="Python.function" />
-      <item index="4" class="java.lang.String" itemvalue="Python.function2" />
+      <item index="0" class="java.lang.String" itemvalue="Python.while" />
+      <item index="1" class="java.lang.String" itemvalue="Python.for" />
+      <item index="2" class="java.lang.String" itemvalue="Python.function" />
+      <item index="3" class="java.lang.String" itemvalue="Python.function2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.function3" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.function2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.function" />
-        <item index="2" class="java.lang.String" itemvalue="Python.for" />
-        <item index="3" class="java.lang.String" itemvalue="Python.while" />
-        <item index="4" class="java.lang.String" itemvalue="Python.if" />
+        <item index="0" class="java.lang.String" itemvalue="Python.function3" />
+        <item index="1" class="java.lang.String" itemvalue="Python.function2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.function" />
+        <item index="3" class="java.lang.String" itemvalue="Python.for" />
+        <item index="4" class="java.lang.String" itemvalue="Python.while" />
       </list>
     </recent_temporary>
   </component>
@@ -554,6 +565,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
           <caret line="67" column="60" lean-forward="false" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/function3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
           <folding />
         </state>
       </provider>
