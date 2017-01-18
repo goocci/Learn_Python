@@ -25,16 +25,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dataType2" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/dataType2">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3925">
-              <caret line="157" column="0" lean-forward="false" selection-start-line="157" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="dataType3" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/dataType3">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="function3" pinned="false" current-in-tab="true">
+      <file leaf-file-name="function3" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/function3">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+            <state relative-caret-position="402">
+              <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scope" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/scope">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -139,6 +139,7 @@
         <option value="$PROJECT_DIR$/test/function" />
         <option value="$PROJECT_DIR$/test/function2" />
         <option value="$PROJECT_DIR$/test/function3" />
+        <option value="$PROJECT_DIR$/test/scope" />
       </list>
     </option>
   </component>
@@ -188,24 +189,7 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.function3">
-    <configuration default="false" name="while" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/while" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.scope">
     <configuration default="false" name="for" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,6 +254,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/function3" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="scope" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/scope" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -409,19 +410,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.while" />
-      <item index="1" class="java.lang.String" itemvalue="Python.for" />
-      <item index="2" class="java.lang.String" itemvalue="Python.function" />
-      <item index="3" class="java.lang.String" itemvalue="Python.function2" />
-      <item index="4" class="java.lang.String" itemvalue="Python.function3" />
+      <item index="0" class="java.lang.String" itemvalue="Python.for" />
+      <item index="1" class="java.lang.String" itemvalue="Python.function" />
+      <item index="2" class="java.lang.String" itemvalue="Python.function2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.function3" />
+      <item index="4" class="java.lang.String" itemvalue="Python.scope" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.function3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.function2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.function" />
-        <item index="3" class="java.lang.String" itemvalue="Python.for" />
-        <item index="4" class="java.lang.String" itemvalue="Python.while" />
+        <item index="0" class="java.lang.String" itemvalue="Python.scope" />
+        <item index="1" class="java.lang.String" itemvalue="Python.function3" />
+        <item index="2" class="java.lang.String" itemvalue="Python.function2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.function" />
+        <item index="4" class="java.lang.String" itemvalue="Python.for" />
       </list>
     </recent_temporary>
   </component>
@@ -571,8 +572,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/function3">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="121" column="0" lean-forward="true" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        <state relative-caret-position="402">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/scope">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>
