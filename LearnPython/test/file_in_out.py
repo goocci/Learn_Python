@@ -23,13 +23,13 @@
 #
 # # 파일에 내용을 출력하기
 # fp = open("test_new.txt", 'w')
-# for i in range(1,5) :
+# for.py i in range(1,5) :
 #     content = "%d 번째 줄...\n" %i
 #     fp.write(content)
 #
 # fp.close()
 #
-# for i in range(1,10) :
+# for.py i in range(1,10) :
 #     content = "%d 번째 줄..." % i
 #     print(content)
 
@@ -66,7 +66,7 @@ fp.close()
 # a 모드를 이용해서 파일에 내용을 추가하기
 # fp = open("test_new.txt", 'a')
 #
-# for i in range(4,7) :
+# for.py i in range(4,7) :
 #     data = "%d line... \n" %i
 #     fp.write(data)
 # fp.close()
