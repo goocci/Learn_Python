@@ -15,16 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="dataType.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/dataType.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1950">
-              <caret line="78" column="14" lean-forward="false" selection-start-line="78" selection-start-column="14" selection-end-line="78" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="for.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/for.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +85,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="oop.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="oop.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/oop.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="377">
               <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="oop2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/oop2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -154,6 +154,7 @@
         <option value="$PROJECT_DIR$/test/dictionary.py" />
         <option value="$PROJECT_DIR$/test/set.py" />
         <option value="$PROJECT_DIR$/test/oop.py" />
+        <option value="$PROJECT_DIR$/test/oop2.py" />
       </list>
     </option>
   </component>
@@ -203,24 +204,7 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.oop">
-    <configuration default="false" name="file_in_out2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="C:\Users\KimMinGoo\Desktop\LearnPython\LearnPython\test\file_in_out2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittests in oop2">
     <configuration default="false" name="file_in_out2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,6 +271,28 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/oop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in oop2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/oop2.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -424,19 +430,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.file_in_out2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.file_in_out2 (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.dictionary" />
-      <item index="3" class="java.lang.String" itemvalue="Python.set" />
-      <item index="4" class="java.lang.String" itemvalue="Python.oop" />
+      <item index="0" class="java.lang.String" itemvalue="Python.file_in_out2 (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.dictionary" />
+      <item index="2" class="java.lang.String" itemvalue="Python.set" />
+      <item index="3" class="java.lang.String" itemvalue="Python.oop" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in oop2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.oop" />
-        <item index="1" class="java.lang.String" itemvalue="Python.set" />
-        <item index="2" class="java.lang.String" itemvalue="Python.dictionary" />
-        <item index="3" class="java.lang.String" itemvalue="Python.file_in_out2 (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.file_in_out2" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in oop2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.oop" />
+        <item index="2" class="java.lang.String" itemvalue="Python.set" />
+        <item index="3" class="java.lang.String" itemvalue="Python.dictionary" />
+        <item index="4" class="java.lang.String" itemvalue="Python.file_in_out2 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -452,6 +458,23 @@
       <updated>1484586523669</updated>
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_oop2 - 2017.01.19 at 16h 29m 12s.xml">
+      <configuration name="Unittests in oop2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_oop2 - 2017.01.19 at 16h 29m 22s.xml">
+      <configuration name="Unittests in oop2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_oop2 - 2017.01.19 at 16h 39m 49s.xml">
+      <configuration name="Unittests in oop2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_oop2 - 2017.01.19 at 16h 40m 06s.xml">
+      <configuration name="Unittests in oop2" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_oop2 - 2017.01.19 at 16h 41m 44s.xml">
+      <configuration name="Unittests in oop2" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="870" y="0" width="1039" height="1029" extended-state="0" />
@@ -484,14 +507,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/user_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/file_in_out.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1975">
@@ -852,6 +867,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/oop2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
           <folding />
         </state>
       </provider>
