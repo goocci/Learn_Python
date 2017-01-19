@@ -55,16 +55,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user_input.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/user_input.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="file_in_out.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/file_in_out.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,11 +75,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dictionary.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dictionary.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/dictionary.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="327">
               <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="set.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/set.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-241">
+              <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -152,6 +152,7 @@
         <option value="$PROJECT_DIR$/test/file_in_out2" />
         <option value="$PROJECT_DIR$/test/for.py" />
         <option value="$PROJECT_DIR$/test/dictionary.py" />
+        <option value="$PROJECT_DIR$/test/set.py" />
       </list>
     </option>
   </component>
@@ -201,24 +202,7 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.dictionary">
-    <configuration default="false" name="user_input" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="C:\Users\KimMinGoo\Desktop\LearnPython\LearnPython\test\user_input.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.set">
     <configuration default="false" name="file_in_out" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -283,6 +267,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/dictionary.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -422,19 +423,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.user_input" />
-      <item index="1" class="java.lang.String" itemvalue="Python.file_in_out" />
-      <item index="2" class="java.lang.String" itemvalue="Python.file_in_out2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.file_in_out2 (1)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.dictionary" />
+      <item index="0" class="java.lang.String" itemvalue="Python.file_in_out" />
+      <item index="1" class="java.lang.String" itemvalue="Python.file_in_out2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.file_in_out2 (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.dictionary" />
+      <item index="4" class="java.lang.String" itemvalue="Python.set" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.dictionary" />
-        <item index="1" class="java.lang.String" itemvalue="Python.file_in_out2 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.file_in_out2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.file_in_out" />
-        <item index="4" class="java.lang.String" itemvalue="Python.user_input" />
+        <item index="0" class="java.lang.String" itemvalue="Python.set" />
+        <item index="1" class="java.lang.String" itemvalue="Python.dictionary" />
+        <item index="2" class="java.lang.String" itemvalue="Python.file_in_out2 (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.file_in_out2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.file_in_out" />
       </list>
     </recent_temporary>
   </component>
@@ -452,7 +453,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="870" y="0" width="1039" height="1029" extended-state="0" />
+    <frame x="870" y="0" width="1039" height="1029" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1811949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -482,14 +483,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/function3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3025">
-          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/scope.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="825">
@@ -850,6 +843,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
           <caret line="104" column="0" lean-forward="true" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-241">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
           <folding />
         </state>
       </provider>
