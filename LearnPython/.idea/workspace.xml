@@ -25,16 +25,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scope.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/scope.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="809">
-              <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="if.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/if.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,11 +95,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="oop4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="oop4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/oop4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="302">
               <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inheritance.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/inheritance.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,6 +157,7 @@
         <option value="$PROJECT_DIR$/test/oop2.py" />
         <option value="$PROJECT_DIR$/test/oop3.py" />
         <option value="$PROJECT_DIR$/test/oop4.py" />
+        <option value="$PROJECT_DIR$/test/inheritance.py" />
       </list>
     </option>
   </component>
@@ -206,24 +207,7 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.oop4">
-    <configuration default="false" name="set" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.inheritance">
     <configuration default="false" name="oop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -293,6 +277,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/oop4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="inheritance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/inheritance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -432,19 +433,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.set" />
-      <item index="1" class="java.lang.String" itemvalue="Python.oop" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in oop2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.oop3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.oop4" />
+      <item index="0" class="java.lang.String" itemvalue="Python.oop" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in oop2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.oop3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.oop4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.inheritance" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.oop4" />
-        <item index="1" class="java.lang.String" itemvalue="Python.oop3" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in oop2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.oop" />
-        <item index="4" class="java.lang.String" itemvalue="Python.set" />
+        <item index="0" class="java.lang.String" itemvalue="Python.inheritance" />
+        <item index="1" class="java.lang.String" itemvalue="Python.oop4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.oop3" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in oop2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.oop" />
       </list>
     </recent_temporary>
   </component>
@@ -509,14 +510,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/test_2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/dataType2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3925">
@@ -877,6 +870,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="302">
           <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding />
         </state>
       </provider>
