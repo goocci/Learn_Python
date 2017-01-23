@@ -15,16 +15,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="module4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/module4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="package.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/package.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -85,14 +75,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="except6.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="except6.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/except6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="250">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#36#46#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.7vs3.x.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/2.7vs3.x.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -173,12 +173,13 @@
         <option value="$PROJECT_DIR$/test/except5.py" />
         <option value="$PROJECT_DIR$/test/test" />
         <option value="$PROJECT_DIR$/test/test.txt" />
+        <option value="$PROJECT_DIR$/test/2.7vs3.x.py" />
         <option value="$PROJECT_DIR$/test/except6.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="870" />
+    <option name="x" value="890" />
     <option name="width" value="1039" />
     <option name="height" value="1029" />
   </component>
@@ -224,21 +225,23 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.except6">
-    <configuration default="false" name="except2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Doctests in 2.7vs3.x" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/except2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/2.7vs3.x.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="false" name="except3" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -288,23 +291,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LearnPython" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/except5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="except6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="LearnPython" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/except6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -443,20 +429,36 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="except6" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LearnPython" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/except6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.except2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.except3" />
-      <item index="2" class="java.lang.String" itemvalue="Python.except4" />
-      <item index="3" class="java.lang.String" itemvalue="Python.except5" />
-      <item index="4" class="java.lang.String" itemvalue="Python.except6" />
+      <item index="0" class="java.lang.String" itemvalue="Python.except6" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Doctests in 2.7vs3.x" />
+      <item index="2" class="java.lang.String" itemvalue="Python.except3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.except4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.except5" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.except6" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Doctests in 2.7vs3.x" />
         <item index="1" class="java.lang.String" itemvalue="Python.except5" />
         <item index="2" class="java.lang.String" itemvalue="Python.except4" />
         <item index="3" class="java.lang.String" itemvalue="Python.except3" />
-        <item index="4" class="java.lang.String" itemvalue="Python.except2" />
       </list>
     </recent_temporary>
   </component>
@@ -474,6 +476,9 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="Doctests_in_2_7vs3_x - 2017.01.23 at 16h 36m 52s.xml">
+      <configuration name="Doctests in 2.7vs3.x" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittests_in_oop2 - 2017.01.19 at 16h 29m 12s.xml">
       <configuration name="Unittests in oop2" configurationId="tests" />
     </history-entry>
@@ -491,7 +496,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="870" y="0" width="1039" height="1029" extended-state="0" />
+    <frame x="890" y="0" width="1039" height="1029" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1811949" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -521,14 +526,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/function2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1675">
-          <caret line="67" column="60" lean-forward="false" selection-start-line="67" selection-start-column="60" selection-end-line="67" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/function3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3025">
@@ -887,11 +884,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/except6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        <state relative-caret-position="250">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#36#46#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/2.7vs3.x.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="12" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
